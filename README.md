@@ -12,3 +12,4 @@ This is a social media feed UI/homepage that lets you interact with the like but
 
 
 <h3>Screenshot:</h3>
+<img width="1319" alt="Screenshot 2021-09-23 at 12 59 36 AM" src="https://user-images.githubusercontent.com/40691059/134437351-469db1d6-4171-452a-b12c-1bab26aae203.png">
